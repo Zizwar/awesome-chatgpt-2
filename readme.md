@@ -93,6 +93,8 @@
 - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
 - [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
 - [OpenChat](https://github.com/openchatai/OpenChat) - Personalized ChatGPT chatbot.
+-
+[JPT-PRoomy](https://github.com/Zizwar/PRoomy): ChatGPT Rooms with Custom AI Prompts: It uses Fresh, Supabase, on Deno Deploy.
 
 ### Hosted
 
